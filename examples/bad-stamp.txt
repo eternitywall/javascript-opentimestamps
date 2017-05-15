@@ -1,2 +1,0 @@
-The timestamp on this file is well-formatted, but will fail Bitcoin block
-header validation.
